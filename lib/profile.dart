@@ -56,7 +56,6 @@ class Profile extends StatelessWidget {
                 children: [
                   Text('1',style: titleText3),
                   Text('Following',style: titleText4),
-
                 ],
               ),
             ],
